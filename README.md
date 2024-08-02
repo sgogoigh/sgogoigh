@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there! I'm an enthusiastic software developer 👨🏻‍💻 pursuing my B.Tech in Information Technology.<br>
 I'm all about diving into the latest tech trends and constantly evolving my skills.<br>
-With experience in both web and app domains, I'm working towards full-stack dev.🕸️<br>
+With experience in both Machine Learning and Statistics domains, I'm working towards Data Science and AI&ML Engineering.🕸️<br>
 I thrive on learning new things and adapting to them quickly, leading to continuous growth and innovation. :-3
 
 
