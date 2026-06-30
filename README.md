@@ -1,12 +1,11 @@
 # 💫 About Me:
-Hey there! I'm an enthusiastic software developer 👨🏻‍💻 pursuing my B.Tech in Information Technology.<br>
+Hey there! I'm an enthusiastic AI & ML Engineer 👨🏻‍💻 <br>
 I'm all about diving into the latest tech trends and constantly evolving my skills.<br>
-With experience in both Machine Learning and Statistics domains, I'm working towards Data Science and AI&ML Engineering.🕸️<br>
-I thrive on learning new things and adapting to them quickly, leading to continuous growth and innovation. :-3
+With experience in Machine Learning production systems, I'm love merging multiple ideas into an organized workflow 🕸️<br>
+I thrive on learning new things and adapting to them quickly, so if you have something interesting, don't shy away from letting my know :-3
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thesocialstories_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnygogoi/)
 
 # 💻 Tech Stack:
